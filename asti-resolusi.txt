@@ -1,4 +1,3 @@
 belajar git github
-belajar code igniter
 belajar lagi basic front end developer
 manambahkan lagi daftar
