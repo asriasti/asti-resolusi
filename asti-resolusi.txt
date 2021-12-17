@@ -3,8 +3,9 @@ belajar lagi basic front end developer
 manambahkan lagi daftar
 
 
-Belajar :
-
-- angular
-- react
-- laravel
+belajar
+- javascript
+- pyton
+- ruby
+- c++
+- json
