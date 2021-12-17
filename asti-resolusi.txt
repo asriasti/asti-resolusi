@@ -1,3 +1,10 @@
 belajar git github
 belajar lagi basic front end developer
 manambahkan lagi daftar
+
+
+Belajar :
+
+- angular
+- react
+- laravel
